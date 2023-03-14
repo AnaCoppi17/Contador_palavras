@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(163, 129, 245);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 90vh;
+
+}
+#container {
+    background-color: #b0c4de ;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    align-items:center;
+    border-radius: 30px;
+    }
+button{
+    margin-top: 10px;
+}
